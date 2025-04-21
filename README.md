@@ -43,7 +43,7 @@ La aplicación utiliza un diseño interactivo con un chat visual, lo que facilit
    ```bash
    git clone <01-traducciones-openai>
    cd 01-traducciones-openai
-   ```plaintext
+   ```
 
 2. Instala las dependencias:
 
@@ -84,9 +84,9 @@ La aplicación es fácil de usar. Simplemente sigue estos pasos:
 │   │   ├── img/
 │   │   │   └── icon-translate.png
 │   │   └── js/
-│   │       └── [main.js](http://localhost:3005/main.js)
+│   │       └── [main.js]
 │   └── index.html
-├── app.js
+├── app.js (http://localhost:3005)
 ├── package.json
 ├── .env
 └── README.md
@@ -106,7 +106,7 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más 
 
 ## Autor
 
-Creado por Antonio Zurano como parte del curso "Desarrollo Web con IA".
+Creado por Antonio Zurano como parte del curso "Desarrollo Web con IA" de Victor Robles profesor de Udemy.
 
 ## Contacto
 
